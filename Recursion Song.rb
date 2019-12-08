@@ -2,7 +2,6 @@
 define :triangle do |points, depth|
   counter = 0
   3.times do
-    use_synth :prophet
     play points[counter], release: 0.5, amp: 0.5, attack: 2
     counter += 1
     sleep 2
