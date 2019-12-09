@@ -31,6 +31,7 @@ define :beatz do
 end
 
 live_loop :song do
+  # change root and quality to change the chord of the song
   root = :C6
   quality = :minor
   in_thread do
