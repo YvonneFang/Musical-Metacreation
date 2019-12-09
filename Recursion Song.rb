@@ -1,4 +1,9 @@
-# Welcome to Sonic Pi v3.1
+# Alina and Yvonne
+# CSCI 3725
+# PQ5
+# Nov 9, 2019
+# This file represents a musical interpretation of Sierpinski's triangle
+
 define :triangle do |points, depth|
   counter = 0
   3.times do
