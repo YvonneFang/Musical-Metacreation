@@ -4,3 +4,6 @@ This song demonstrates recursion because it is a musical representation of Sierp
 
 ## OOP song: Scale Synthphony
 This song demonstrates OOP properties, specifically how different classes are used with each other in a main function. Each function in the algorithm represents an object that may or may not take attributes upon instantiation. Of course, these are functions, not classes, but our code is meant to model OOP. We used live coding by changing the root and quality we pass to each function. Each time we change them, new "objects" will be created from each "class," which come together to create a song. By reading the code along with listening to the music, CS 1101 students should be able to take away that in OOP, programs are based on different objects, each with their own properties, which then can be instantiated with different values and used in tandem with each other in a main function.
+
+### Credits
+* [Sierpinski's Triangle] (https://runestone.academy/runestone/books/published/pythonds/Recursion/pythondsSierpinskiTriangle.html)
