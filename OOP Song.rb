@@ -1,4 +1,9 @@
-# Welcome to Sonic Pi v3.1
+# Alina and Yvonne
+# CSCI 3725
+# PQ5
+# Nov 9, 2019
+# This file represents a way to produce song that follow the OOP style
+
 use_bpm = 200
 define :melody do |root, quality|
   use_synth :blade
